@@ -298,11 +298,11 @@ static void display_title(void) {
 	ShowMessage("\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                        " CL_PASS"" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "       " CL_BT_WHITE "              4CrAM Development Team presents                     " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "          ___     _____      ___     ___   ___        _____ __   __     " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "          ___     _____      ___     ___   ___        _______  __       " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "         / . |   / ___/_____/   |   /   | /   |      / ___/\\ \\/ /     " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "        / /| |__/ /   / ___/ /| |  / /| |/ /| | ___ / /__   \\   /      " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "       /___  __/ /___/ /  / ___ | / / |   / | |/__// ___/    / /\\ \\   " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "           |_|/_____/_/  /_/  |_|/_/  |__/  |_|   /____/    /_/  \\_\\  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "        / /| |__/ /   / ___/ /| |  / /| |/ /| | ___ / /__   \\  /       " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "       /___  __/ /___/ /  / ___ | / / |   / | |/__// ___/  / /\\ \\     " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "           |_|/_____/_/  /_/  |_|/_/  |__/  |_|   /____/  /_/  \\_\\    " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                        " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "       " CL_GREEN "                 (4th Class rAthena Mod Expanded)                    " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                        " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
